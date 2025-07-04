@@ -33,11 +33,6 @@ console.log(aptNo, typeof aptNo)
 
 
 
-
-
-
-
-
 // typeof examples
 
 // Numbers
